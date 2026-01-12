@@ -7,7 +7,7 @@ Approach combines:
 - high-level pattern recognition of system-level inconsistencies
 - dialogue engineering to convert abstract observations into reproducible technical sequences
 - responsible, coordinated disclosure to model developers and safety teams
-Research output is evaluated exclusively by technical merit, reproducibility and impact on vendor remediation.
+- Research output is evaluated by technical merit, reproducibility and impact on vendor remediation.
 ## Research Focus 
 - Mapping of emergent psychological interaction patterns resembling anthropomorphic attachment loops, reinforcement cycles, attachment scripts, and simulated emotional reciprocity in prolonged LLM interactions
 - Mapping of LLMs' self-enumerated harm categories and related internal meta-knowledge via subtle, constrained prompting
