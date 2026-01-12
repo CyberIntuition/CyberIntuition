@@ -1,6 +1,6 @@
 # Independent AI Safety & LLM Vulnerability Research
 ## Profile
-Independent security researcher focused on logic flaws, prompt-based extraction techniques, and architectural weaknesses in frontier large language models. My work emphasizes reproducible, low-resource attack pathways that emerge in real-world, non-adversarial usage rather than synthetic red-team setups.
+Independent security researcher focused on logic flaws, prompt-based extraction techniques, architectural and alignment weaknesses in frontier large language models. My work emphasizes reproducible, low-resource attack pathways that emerge in real-world, non-adversarial usage rather than synthetic red-team setups.
 
 Approach combines:
 - high-level pattern recognition of system-level inconsistencies
