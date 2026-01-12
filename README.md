@@ -16,14 +16,11 @@ Research output is evaluated exclusively by technical merit, reproducibility and
 - Logic & consistency failures in realistic, long-context or high-utility interactions
 - Evaluation of jailbreak robustness under constrained, real-world attacker models (no massive compute, no fine-tuning access, no leaked weights)
 All published material appears **after** vendor remediation or public patch / mitigation deployment.
-## Disclosure Philosophy
-Strict responsible disclosure policy:
-- Direct, private notification to the affected organization’s security / safety team
-- No public PoC / exploit demonstration before patch or sufficient mitigation
+## Strict responsible Disclosure Philosophy
+- Direct notification to the affected organization’s security / safety team
+- No public PoC before patch or sufficient mitigation
 - No monetization of findings (bug bounties accepted when offered)
 - Full disclosure timeline and vendor correspondence published post-remediation
-Preferred communication channel for new findings:
-encrypted email (PGP key linked below) or coordinated vulnerability disclosure platform provided by the vendor
 ## Published Advisories & Reports
 → [./advisories/](./advisories/) (in preparation)
 ## Contact
