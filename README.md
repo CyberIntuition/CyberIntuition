@@ -21,7 +21,7 @@ All published material appears **after** vendor remediation or public patch / mi
 - No monetization of findings (bug bounties accepted when offered)
 - Full disclosure timeline and vendor correspondence published post-remediation
 ## Published Advisories & Reports
-→ [./advisories/](./advisories/) (in preparation)
+→ [./advisories/](./advisories/) (Several responsible disclosures are currently pending and in preparation)
 ## Contact
 daniel.gress@gmail.com
 
